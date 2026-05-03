@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/e/android save/**)",
+      "Read(//mnt/e/android save/markdownreader/**)",
+      "Read(//mnt/e/android save/markdownreader/app/src/**)",
+      "Bash(./gradlew test:*)",
+      "Bash(./gradlew:*)",
+      "Bash(java:*)",
+      "Bash(python:*)",
+      "Bash(magick:*)",
+      "Bash(javac:*)"
+    ]
+  }
+}

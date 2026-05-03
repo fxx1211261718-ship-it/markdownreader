@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">占付龙的本子</string>
+    <string name="reader_import_file">导入文件</string>
+    <string name="reader_import_another">重新导入</string>
+    <string name="bookshelf_title">书架</string>
+    <string name="bookshelf_empty_title">书架还是空的</string>
+    <string name="bookshelf_empty_hint">导入 Markdown 或纯文本文件后，它们会保存在书架中，方便继续阅读。</string>
+    <string name="bookshelf_last_opened">最近阅读：%1$s</string>
+    <string name="reader_back_to_bookshelf">返回书架</string>
+    <string name="reader_mode_scroll">连续滚动</string>
+    <string name="reader_mode_paged">左右分页</string>
+    <string name="reader_mode_content_description">阅读模式</string>
+    <string name="reader_last_file">最近文件</string>
+    <string name="reader_no_content">文件内容为空</string>
+    <string name="reader_error_open_failed">文件无法读取，请重新导入。</string>
+    <string name="reader_error_permission">文件权限已失效，请重新导入。</string>
+    <string name="reader_error_empty">文件为空。</string>
+    <string name="reader_error_decode">文件编码不支持或内容损坏。</string>
+    <string name="reader_page_indicator">第 %1$d / %2$d 页</string>
+    <string name="reader_encoding_label">编码：%1$s</string>
+    <string name="reader_open_document">打开文档</string>
+    <string name="reader_loading">正在读取文件…</string>
+    <string name="reader_no_books">暂无已导入文档</string>
+    <string name="reader_opened_from_external">已从外部文件打开</string>
+    <string name="reader_quote_prefix">引用</string>
+</resources>
